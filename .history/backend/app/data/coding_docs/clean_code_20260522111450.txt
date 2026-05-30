@@ -1,0 +1,5 @@
+Use meaningful variable names.
+Keep functions small and focused.
+Avoid duplicate code.
+Write modular and reusable components.
+Follow consistent formatting standards.

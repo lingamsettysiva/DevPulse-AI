@@ -1,0 +1,4 @@
+High issue counts may indicate maintenance problems.
+Repositories with low testing coverage tend to contain more bugs.
+Frequent unresolved issues can reduce repository reliability.
+Large monolithic functions increase bug probability.

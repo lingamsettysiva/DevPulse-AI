@@ -1,0 +1,5 @@
+Optimize database queries.
+Reduce unnecessary API calls.
+Use caching where possible.
+Avoid repeated computations.
+Use asynchronous processing for heavy tasks.

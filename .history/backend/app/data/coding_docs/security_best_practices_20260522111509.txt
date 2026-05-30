@@ -1,0 +1,5 @@
+Validate all user inputs.
+Never expose API keys publicly.
+Use HTTPS for secure communication.
+Sanitize external data before processing.
+Implement authentication and authorization properly.
